@@ -10,5 +10,5 @@ C: XMODEM a file to ROM and confirm
 D: Display data in ROM  
 P: Page write settings  
 
-![EEPROM programmer](images/EEPROM_programmer.jpg])
+![EEPROM programmer](images/EEPROM_programmer.jpg)
 ![EEPROM output](images/EEPROM_output.jpg)
